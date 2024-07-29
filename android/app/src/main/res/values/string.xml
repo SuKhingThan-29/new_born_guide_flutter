@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">chitmaymay</string>
+    <string name="facebook_app_id">367095518666152</string>
+    <string name="fb_login_protocol_scheme">fb367095518666152</string>
+    <string name="facebook_client_token">dace7f83da445a3f6f1745ed20fd8719</string>
+</resources>

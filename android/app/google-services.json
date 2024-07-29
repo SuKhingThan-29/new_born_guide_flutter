@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "866608414962",
+    "project_id": "chit-may-may-app",
+    "storage_bucket": "chit-may-may-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866608414962:android:b3fa25d6460f7df4aa506b",
+        "android_client_info": {
+          "package_name": "com.dkmads.chitmaymay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866608414962-2cuaf45f72fgs7i1pnsbio9l3sgcavok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkmads.chitmaymay",
+            "certificate_hash": "e1e8bd9177cbcac668f99459bde38b97768ffe2f"
+          }
+        },
+        {
+          "client_id": "866608414962-88qursjc3ua1pp788nduash6rtsgadg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkmads.chitmaymay",
+            "certificate_hash": "cb2fede2b4f16321afce98a3e42c9c8c98f841a4"
+          }
+        },
+        {
+          "client_id": "866608414962-notjvdmtqkv3nvm0go4a7nhf75daeaul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkmads.chitmaymay",
+            "certificate_hash": "000077e962fbc929dab2269adc892fc2e62f3666"
+          }
+        },
+        {
+          "client_id": "866608414962-p79gnd7qaqaffd00e2kpoce0h57k6j2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkmads.chitmaymay",
+            "certificate_hash": "de4ba3ea6943fdbff7e6bca76c38814251ec2ff1"
+          }
+        },
+        {
+          "client_id": "866608414962-195rfb59bb8nohd2tc8o77rsgd9a2que.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEP_FcrQGkOA1-s4feji9lx1BfKX3idyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866608414962-195rfb59bb8nohd2tc8o77rsgd9a2que.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

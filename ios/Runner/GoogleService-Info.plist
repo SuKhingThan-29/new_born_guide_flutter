@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>866608414962-beet14vttdaho01p3d250btuic4khuem.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.866608414962-beet14vttdaho01p3d250btuic4khuem</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>866608414962-2cuaf45f72fgs7i1pnsbio9l3sgcavok.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDAQsQZ6DeBqzo-a6BXiJg5kqKgHueXXy8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>866608414962</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dkmads.chitmaymay</string>
+	<key>PROJECT_ID</key>
+	<string>chit-may-may-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chit-may-may-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:866608414962:ios:a03b274175c8cb7aaa506b</string>
+</dict>
+</plist>
